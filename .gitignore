@@ -1,0 +1,14 @@
+dist/
+tests/runs/
+tests/*.exe
+tests/*.pdb
+tests/layout/runs/
+config/*
+!config/services.example.json
+logs/
+icons/
+*.bak
+*.tmp
+*.pdb
+.env
+.env.*
